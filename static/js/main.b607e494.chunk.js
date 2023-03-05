@@ -692,7 +692,7 @@
                                         }), Object(N.jsx)("div", {
                                             className: "mint-footer",
                                             children: Object(N.jsx)("p", {
-                                                children: '"Maximum 6 NFTS"'
+                                                children: '(Maximum 6 NFTS)'
                                             })
                                         })]
                                     })]
